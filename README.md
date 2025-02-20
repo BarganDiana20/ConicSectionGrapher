@@ -11,4 +11,5 @@ The program will have the following graphical interface:
 4. The third panel will be used to display the conic. The coordinate axes will be drawn first in black, then the center of the conic and its axes of symmetry will be drawn in blue, and finally, the conic itself will be drawn in red.  
 
 ![Alt text](images/hyperbole1.jpg)  
+<img src="assets/images/hyperbole1.jpg" alt="Hiperbole Example1" width="800" />
 ![Alt text](images/hyperbole2.jpg)  
