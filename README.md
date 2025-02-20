@@ -1,7 +1,7 @@
 # Project ConicSectionGrapher in Java
 A Java program should be written to graphically draw the conic of the general equation:
 
-a11x² + 2a12xy + a22y² + 2a13x + 2a23y + a33 = 0
+a_11x² + 2a12xy + a22y² + 2a13x + 2a23y + a33 = 0
 
 The program will have the following graphical interface:
 
