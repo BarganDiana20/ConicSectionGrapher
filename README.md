@@ -10,4 +10,3 @@ The program will have the following graphical interface:
 3. The second panel will be used to display the properties of the conic (the type of the conic, the center, the values of the determinants, etc.). It will have the same dimensions as the first panel.  
 4. The third panel will be used to display the conic. The coordinate axes will be drawn first in black, then the center of the conic and its axes of symmetry will be drawn in blue, and finally, the conic itself will be drawn in red.  
 
-![image](https://github.com/user-attachments/assets/997ecdc7-8f5d-4ed8-a575-9068bedd2729)
