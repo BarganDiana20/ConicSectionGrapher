@@ -13,4 +13,5 @@ The program will have the following graphical interface:
 ![Alt text](images/hiperbole1.png)
 ![Alt text](images/hiperbole2.png)  
 ![Alt text](images/elipsa.png)  
+![Alt text](images/elipsa2.png)  
 ![Alt text](images/parabola.png)  
