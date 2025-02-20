@@ -14,6 +14,10 @@ Below are some example images showcasing the different types of conic sections t
 a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0  
 The images illustrate how the application accurately renders conic sections, whether the coefficients are all nonzero or some of them are zero. By adjusting these coefficients, users can explore the variety of conic shapes that can be formed.  
 
+Theorem 1. (Isometric classification theorem of conics) The orthogonal and centro-orthogonal invariants of a conic allow determining the nature of the conic as in the table in the following image (Requirement 2):  
+![image](https://github.com/user-attachments/assets/3e7bd373-bc69-4a28-95bf-9eb82e002358)  
+
+
 ![Alt text](images/hiperbole1.png)
 ![Alt text](images/hiperbole2.png)  
 ![Alt text](images/elipsa.png)  
