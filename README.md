@@ -1,7 +1,7 @@
 # Project ConicSectionGrapher in Java
 Create a Java program that draws the conic graph of the general equation:  
 
-a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0
+**a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0**
 
 The program will have the following graphical interface:
 
@@ -11,7 +11,7 @@ The program will have the following graphical interface:
 4. The third panel will be used to display the conic. The coordinate axes will be drawn first in black, then the center of the conic and its axes of symmetry will be drawn in blue, and finally, the conic itself will be drawn in red.
 
 Below are some example images showcasing the different types of conic sections that the application can generate. These include hyperbolas, ellipses, and parabolas, each plotted based on the general conic equation:  
-a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0  
+**a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0**    
 The images illustrate how the application accurately renders conic sections, whether the coefficients are all nonzero or some of them are zero. By adjusting these coefficients, users can explore the variety of conic shapes that can be formed.  
 
 Theorem 1. (Isometric classification theorem of conics) The orthogonal and centro-orthogonal invariants of a conic allow determining the nature of the conic as in the table in the following image (Requirement 2):  
